@@ -7,4 +7,3 @@ Candidates:
 - [Minimal](https://orderedlist.com/minimal/)
 - [Researcher](https://ankitsultana.com/researcher/)
 - [DrJekyll](https://github.com/tyler-abbot/DrJekyll)
--
