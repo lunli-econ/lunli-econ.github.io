@@ -10,7 +10,7 @@ title: Lun Li
 email: lunl@uchicago.edu
 description: Macroeconomics | Advertising | Growth
 baseurl: "HOME" # the subpath of your site, e.g. /blog
-url: "https://lun-li.com" # the base hostname & protocol for your site
+url: "https://lunli-econ.github.io" # the base hostname & protocol for your site
 github_username:  lunli-econ
 paginate: 5
 theme-dark: False #Set to true to change to dark website theme
