@@ -4,3 +4,5 @@ title: Vitae
 permalink: /CV/
 ---
 # CV
+
+Available for download soon
