@@ -88,8 +88,8 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-    max-width: 50%;
-    float:left;
+    max-width: 100%;
+    float:none;
     vertical-align: middle;
     margin-right: 1em;
     margin-bottom: 1em;
@@ -97,7 +97,7 @@ img {
 }
 
 .img-left {
-  max-width: 65%;
+  max-width: 75%;
   float: left;
   margin-right: 1em;
 }
