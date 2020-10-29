@@ -5,4 +5,4 @@ permalink: /CV/
 ---
 # CV
 
-Available for download soon
+[Download](/assets/docs/CV_LUN_LI.pdf)
