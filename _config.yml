@@ -19,3 +19,6 @@ theme-dark: False #Set to true to change to dark website theme
 plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
+
+# Google analytics
+google_analytics: UA-179692354-1
