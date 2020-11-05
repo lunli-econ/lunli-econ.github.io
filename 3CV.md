@@ -5,4 +5,4 @@ permalink: /CV/
 ---
 # CV
 
-<u>[Download](/assets/docs/CV_LUN_LI.pdf)</u>
+<a href="/assets/docs/CV_LUN_LI.pdf"> <u>Download</u></a>
