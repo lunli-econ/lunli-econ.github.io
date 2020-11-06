@@ -5,8 +5,6 @@ permalink: /Teaching/
 ---
 # Teaching
 
-<p style="margin-bottom:1cm;"></p>
-
 #### Lecturer
 
 **Spring 2018:** Econ 20200, *Elements of Economic Analysis III (Macro)*, University of Chicago (<a href="/assets/docs/syllabus_2018.pdf"><u>Syllabus</u></a>)
