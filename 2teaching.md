@@ -5,6 +5,8 @@ permalink: /Teaching/
 ---
 
 #### Teaching
+Spring 2022: Intermediate Macroeconomics, Peking University (<a href="/assets/docs/syllabus_2022.pdf"><u>Syllabus</u></a>)
+
 
 Spring 2018: Econ 20200, *Elements of Economic Analysis III (Macro)*, University of Chicago (<a href="/assets/docs/syllabus_2018.pdf"><u>Syllabus</u></a>)
 
