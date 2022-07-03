@@ -5,12 +5,13 @@ permalink: /Research/
 ---
 #### Working Papers
 
-<a href="/assets/docs/JMP_Li.pdf"><u>Advertising, Brand Preferences, and Market Structure (Job Market Paper)</u></a>
+<a href="/assets/docs/JMP_Li.pdf"><u>Advertising, Brand Preferences, and Market Structures</u></a>
 
+<br>
 
 #### Work in Progress
-<a><u>Constructing Location-Specific Price Indexes from Scanner Data</u></a>
+<a style="margin-bottom:3cm;"><u>Constructing Location-Specific Price Indexes from Scanner Data</u></a>
 
 <a><u>Optimal Price Dispersion with Consumer Learning</u></a>
 
-<a><u>Media Distrust and the Formation of Ideological Echo Chambers</u></a>
+<a><u>Media Distrust and Formation of Ideological Echo Chambers</u></a>
