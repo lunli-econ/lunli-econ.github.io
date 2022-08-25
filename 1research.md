@@ -10,8 +10,8 @@ permalink: /Research/
 <br>
 
 #### Work in Progress
-<a><u>Optimal Price Dispersion with Consumer Learning</u></a>
+<a><u>Consumer Learning and Optimal Sales</u></a>, with Fanqi Shi
 
-<a><u>Media Distrust and Formation of Ideological Echo Chambers</u></a>
+<a><u>Media Distrust and Ideological Echo Chambers</u></a>
 
 <a><u>Constructing Location-Specific Price Indexes from Scanner Data</u></a>
