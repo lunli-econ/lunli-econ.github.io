@@ -9,7 +9,7 @@ permalink: /Research/
 <br>
 
 #### Working Papers
-<a href="/assets/docs/JMP_Li.pdf"><u>Advertising, Brand Preferences, and Market Structures</u></a>
+<a href="/assets/docs/Ad_BPpdf"><u>Advertising, Brand Preferences, and Market Structures</u></a>
 
 <br>
 
