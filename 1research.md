@@ -13,7 +13,7 @@ permalink: /Research/
 
 <br>
 
-#### Work in Progress
-<a><u>Consumer Search and Price Dynamics: Evidence from U.S. Grocery Markets</u></a>
+#### Works in Progress
+<a><u>Consumer Search and Price Dynamics</u></a>, with Fanqi Shi
 
 <a><u>MPC Heterogeneity and the Age Profile: Evidence from China</u></a>, with Xin Liang
