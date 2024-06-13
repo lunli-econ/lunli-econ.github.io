@@ -14,8 +14,6 @@ permalink: /Research/
 <br>
 
 #### Work in Progress
-<a><u>Consumer Learning and Optimal Sales</u></a>, with Fanqi Shi
+<a><u>Consumer Search and Price Dynamics: Evidence from U.S. Grocery Markets</u></a>
 
-<a><u>Media Distrust and Ideological Echo Chambers</u></a>
-
-<a><u>Constructing Location-Specific Price Indexes from Scanner Data</u></a>
+<a><u>MPC Heterogeneity and the Age Profile: Evidence from China</u></a>, with Xin Liang
