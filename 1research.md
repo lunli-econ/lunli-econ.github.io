@@ -5,9 +5,9 @@ permalink: /Research/
 ---
 #### Publications
 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1043951X25002408"><u>Measuring MPC heterogeneity in China: Insights from household registration reform</u></a>, with Yawen Gao and Xin Liang, *China Economic Review* 94 (2025): 102582.
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1043951X25002408"><u>Measuring MPC heterogeneity in China: Insights from household registration reform</u></a>, with Yawen Gao and Xin Liang, *China Economic Review*, December 2025
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0304406823000228"><u>On the Concavity of Consumption Function under Habit Formation</u></a>, with Haoyu Liu, *Journal of Mathematical Economics* 106 (2023): 102829.
+<a href="https://www.sciencedirect.com/science/article/pii/S0304406823000228"><u>On the Concavity of Consumption Function under Habit Formation</u></a>, with Haoyu Liu,  *Journal of Mathematical Economics*, May 2023
 
 <br>
 
