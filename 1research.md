@@ -4,6 +4,9 @@ title : Research
 permalink: /Research/
 ---
 #### Publications
+
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1043951X25002408"><u>Measuring MPC heterogeneity in China: Insights from household registration reform</u></a>, with Yawen Gao and Xin Liang, *China Economic Review* 94 (2025): 102582.
+
 <a href="https://www.sciencedirect.com/science/article/pii/S0304406823000228"><u>On the Concavity of Consumption Function under Habit Formation</u></a>, with Haoyu Liu, *Journal of Mathematical Economics* 106 (2023): 102829.
 
 <br>
@@ -14,6 +17,4 @@ permalink: /Research/
 <br>
 
 #### Works in Progress
-<a><u>Consumer Search and Price Dynamics</u></a>, with Fanqi Shi
-
 <a><u>MPC Heterogeneity and the Age Profile: Evidence from China</u></a>, with Xin Liang
